@@ -7,7 +7,7 @@
 
 <!-- Page body title -->
 @section('body-title')
-    @yield('page-title') Add Insert
+    @yield('page-title') Add UIpdate
 @endsection
 <!-- Page body title end -->
 
